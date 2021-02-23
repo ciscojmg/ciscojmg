@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![social-banner-ciscojmg](https://github.com/ciscojmg/ciscojmg/blob/main/assets/github.gif)](https://gitlab.com/ciscojmg)
+[![social-banner-ciscojmg](https://github.com/ciscojmg/ciscojmg/blob/main/assets/ciscojmg.gif)](https://gitlab.com/ciscojmg)
 
 
 
